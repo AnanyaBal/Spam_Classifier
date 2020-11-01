@@ -1,3 +1,3 @@
 # SpamC
 
-Spam filtering using Multi Layer Perceptron
+Email spam filtering using a Multi Layer Perceptron classifier.
